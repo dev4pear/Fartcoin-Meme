@@ -42,7 +42,7 @@
   const hint = document.querySelector(".js-buy-hint");
   if (hint) {
     hint.textContent = launched
-      ? "Buy routes to Jupiter with this mint."
+      ? "Buy routes to pump.fun with this mint."
       : "Buy unlocks when a real Solana CA is published.";
   }
 
