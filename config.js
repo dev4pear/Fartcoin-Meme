@@ -6,7 +6,7 @@ window.SITE = {
   chain: "Solana",
   ca: "CommingSoon",
   launched: false,
-  x: "https://x.com/",
+  x: "https://x.com/FartcoinGroup",
   social: "https://x.com/crypto_banter/status/2114613308217004322",
   // Buy unlocks when CA is a real Solana address (not CommingSoon)
   buyBase: "https://jup.ag/swap/SOL-",
