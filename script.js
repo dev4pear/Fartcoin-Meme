@@ -13,7 +13,7 @@
   document.querySelectorAll(".js-chain").forEach((el) => { el.textContent = cfg.chain || "Solana"; });
 
   document.querySelectorAll(".js-x").forEach((el) => {
-    el.href = cfg.x || "https://x.com/";
+    el.href = cfg.x || "https://x.com/FartcoinGroup";
     el.target = "_blank";
     el.rel = "noopener";
   });
